@@ -1,4 +1,4 @@
-xmascoin
+X-mas coin
 ========
 
-primecoin fork
+This coin will be primecoin fork with some new features.
